@@ -443,3 +443,15 @@ https://panel.tvstream.cl:1936/8034/8034/chunklist_w1613340350.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tQZWyzC/AGtv01.jpg" group-title="MUSICALES",TV ADORADORES GOSPEL HD
 https://stmv1.voxtvhd.com.br/tvadoradorgospel/tvadoradorgospel/chunklist_w486567463.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KmkFhpw/ZOY-logo.png" group-title="CANALES DE BOLIVIA",ZoyTV Plus HD
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KmkFhpw/ZOY-logo.png" group-title="CANALES DE BOLIVIA",ZoyTV Turcas HD
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvturcas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KmkFhpw/ZOY-logo.png" group-title="CANALES DE BOLIVIA",ZoyTV Bolivia HD
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvbo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KmkFhpw/ZOY-logo.png" group-title="CANALES DE BOLIVIA",ZoyTV Sports 1 HD
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvsports/playlist.m3u8
